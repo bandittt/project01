@@ -9,7 +9,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
-<body class="w3-light-cyan">
+<body class="w3-black">
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
@@ -86,8 +86,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>CONTACT INFOMATION</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>ABOUT ME</h6>
-          <p> My name is Bandit Werapan </br>
-		  	Address: 88/22 m.1 tungtumsao HatYai Songkla 90115 </br>
+          <p>My name is Bandit Werapan</br>
+		  	Address: 88/22 m.1 tungtumsao HatYai Songkla 90115</br>
 		  Date of birth: 23 May 1996</br>Facebook: Bandit werapan</p>
           <hr>
         </div>
