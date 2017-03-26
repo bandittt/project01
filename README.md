@@ -9,6 +9,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
+<body>
 <body class="w3-black">
 
 <!-- Page Container -->
@@ -104,19 +105,17 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Hatyaiwittayalai School</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2011-2013</h6>
-          <p>Senior High School</p>
+          <p>High School</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b> Prince of Songkla University</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2014-present</h6>
-          <p>Humen resource , Faculty of management science
-
-</p>
+          <p>Humen resource , Faculty of management science</p>
           <hr>
         </div>
         
-      </div>
+      <div>
 
     <!-- End Right Column -->
     </div>
