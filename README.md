@@ -9,7 +9,8 @@
 <style>
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
-<body class="w3-light-blue">
+<body>
+<body class="w3-black">
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
@@ -20,54 +21,54 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Left Column -->
     <div class="w3-third">
     
-      <div class="w3-white" w3-text-grey w3-card-4">
+      
         <div class="w3-display-container">
-          <img src="1.jpg" style="width:100%" alt="Avatar">
+          <img src="ball1.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-white">
-            <h2>Tidtee</h2>
+            <h2>BALL</h2>
           </div>
         </div>
         <div class="w3-container">
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Student</p>
-          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Songkhla,Thai</p>
-          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>talis.tidtee@gmail.com</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Hatyai,Thailand</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>banditwerapan@gmail.com</p>
        
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
-          <p>Ulead VideoStudio</p>
+          <p>Leader ship</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:100%">100%</div>
           </div>
-          <p>Adobe premiere pro</p>
+          <p>managing skill</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-green" style="width:80%">
+            <div class="w3-container w3-center w3-round-xlarge w3-yellow" style="width:80%">
               <div class="w3-center w3-text-white">80%</div>
             </div>
           </div>
-          <p>Adobe lightroom</p>
+          <p>teamwork skill</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-red" style="width:70%">70%</div>
           </div>
-          <p>Adobe Photoshop</p>
+          <p>computer skill</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-pink" style="width:50%">50%</div>
           </div>
           <br>
 
-          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+           <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
           <p>Thai</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-orange" style="height:24px;width:100%"></div>
+            <div class="w3-round-xlarge w3-orange" style="height:36px;width:100%"></div>
           </div>
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-brown" style="height:24px;width:55%"></div>
+            <div class="w3-round-xlarge w3-brown" style="height:36px;width:55%"></div>
           </div>
           
           <br>
-        </div>
-      </div><br>
+	  </div> 
+	  </div><br>
 
     <!-- End Left Column -->
     </div>
@@ -80,21 +81,22 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>SUMMARY</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>ABOUT ME</h6>
-          <p>Skillful in computer using and fast learner, always searching for knowledge, leader and listener, interesting in financial and business investment.</p>
+          <p>Skillful in computer using and fast learner, always searching for knowledge, leader, interesting in Humen resource.</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>CONTACT INFOMATION</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>ABOUT ME</h6>
-          <p> My name is Panisara Suwasirikun </br>
-		  	Address: 435/36 Street Kanjanavanit Hat Yai district of Songkhla province 90250</br>
-		  Date of birth: 21 August 1996</br>Facebook: Talisz Tt'ps</p>
+          <p>My name is Bandit Werapan</p>
+          <p>Address: 88/22 m.1 tungtumsao HatYai Songkla 90115</p>
+          <p>Date of birth: 23 May 1996</p>
+	  <p>Facebook: Bandit werapan</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Activities</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>ABOUT ME</h6>
-          <p> Freelance video editing </p><br>
+          <p> Bussiness owner </p><br>
         </div>
       </div>
 
@@ -102,14 +104,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Hatyaiwittayalai School</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2012-2014</h6>
-          <p>Senior High School</p>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2011-2013</h6>
+          <p>High School</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b> Prince of Songkla University</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015-present</h6>
-          <p>Bachelor Degree</p>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2014-present</h6>
+          <p>Humen resource , Faculty of management science</p>
           <hr>
         </div>
         
@@ -121,7 +123,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <!-- End Grid -->
   </div>
   <!-- End Page Container -->
-</div>
+  </body>
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me on social media.</p>
@@ -136,4 +138,3 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 </body>
 </html>
-
