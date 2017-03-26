@@ -59,16 +59,16 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
            <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
           <p>Thai</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-orange" style="height:24px;width:100%"></div>
+            <div class="w3-round-xlarge w3-orange" style="height:36px;width:100%"></div>
           </div>
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-brown" style="height:24px;width:55%"></div>
+            <div class="w3-round-xlarge w3-brown" style="height:36px;width:55%"></div>
           </div>
           
           <br>
-        </div>
-      </div><br>
+	  </div> 
+	  </div><br>
 
     <!-- End Left Column -->
     </div>
