@@ -10,7 +10,7 @@
 html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </style>
 <body>
-<body class="w3-light-blue">
+<body class="w3-black">
 
 <!-- Page Container -->
 <div class="w3-content w3-margin-top" style="max-width:1400px;">
@@ -60,7 +60,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>Thai</p>
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-orange" style="height:24px;width:100%"></div>
-          </div>
+          <div>
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
             <div class="w3-round-xlarge w3-brown" style="height:24px;width:55%"></div>
@@ -76,7 +76,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Right Column -->
     <div class="w3-twothird">
     
-      <div class="w3-container w3-card-2 w3-blue w3-margin-bottom">
+      <div class="w3-container w3-card-2 w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>MY PROFILE</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>SUMMARY</b></h5>
@@ -123,7 +123,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <!-- End Grid -->
   </div>
   <!-- End Page Container -->
-</div>
+  </div>
 
 <footer class="w3-container w3-teal w3-center w3-margin-top">
   <p>Find me on social media.</p>
