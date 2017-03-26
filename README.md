@@ -41,7 +41,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
           <p>Adobe premiere pro</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-black" style="width:80%">
+            <div class="w3-container w3-center w3-round-xlarge w3-yellow" style="width:80%">
               <div class="w3-center w3-text-white">80%</div>
             </div>
           </div>
@@ -86,9 +86,10 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>CONTACT INFOMATION</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>ABOUT ME</h6>
-          <p>My name is Bandit Werapan</br>
-		  	Address: 88/22 m.1 tungtumsao HatYai Songkla 90115</br>
-		  Date of birth: 23 May 1996</br>Facebook: Bandit werapan</p>
+          <p>My name is Bandit Werapan</p>
+          <p>Address: 88/22 m.1 tungtumsao HatYai Songkla 90115</p>
+          <p>Date of birth: 23 May 1996</p>
+	  <p>Facebook: Bandit werapan</p>
           <hr>
         </div>
         <div class="w3-container">
@@ -109,7 +110,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b> Prince of Songkla University</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2014-present</h6>
-          <p>Bachelor Degree</p>
+          <p>Humen resource , Faculty of management science
+
+</p>
           <hr>
         </div>
         
