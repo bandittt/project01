@@ -35,21 +35,21 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
-          <p>Ulead VideoStudio</p>
+          <p>Leader ship</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-blue" style="width:100%">100%</div>
           </div>
-          <p>Adobe premiere pro</p>
+          <p>managing skill</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-yellow" style="width:80%">
               <div class="w3-center w3-text-white">80%</div>
             </div>
           </div>
-          <p>Adobe lightroom</p>
+          <p>teamwork skill</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-red" style="width:70%">70%</div>
           </div>
-          <p>Adobe Photoshop</p>
+          <p>computer skill</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-pink" style="width:50%">50%</div>
           </div>
